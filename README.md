@@ -1,6 +1,7 @@
+#Lab 7
 A Node.js server that implements the CRUD operations.
 
-Instructions
+Instructions:
 Download `node` and `npm`, run `npm install` and do:
 1) Run `npm start` or `nodemon server.js`
 2) Browse for `localhost:8080`
